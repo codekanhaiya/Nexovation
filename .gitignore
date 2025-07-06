@@ -1,0 +1,44 @@
+# ==============================
+# 🚫 Dependency directories
+# ==============================
+nexoclient/node_modules/
+nexoserver/node_modules/
+.pnp/
+.pnp.js
+
+# ==============================
+# 🧪 Test coverage reports
+# ==============================
+coverage/
+
+# ==============================
+# 🛠 Production builds
+# ==============================
+build/
+dist/
+
+# ==============================
+# ⚙️ Environment variables
+# ==============================
+.env
+.env.*.local
+
+# ==============================
+# 💥 Log files
+# ==============================
+npm-debug.log*
+yarn-debug.log*
+yarn-error.log*
+
+# ==============================
+# 🍏 macOS system files
+# ==============================
+.DS_Store
+
+# ==============================
+# 💻 IDE/editor settings (optional)
+# ==============================
+.vscode/
+.idea/
+*.sublime-project
+*.sublime-workspace
