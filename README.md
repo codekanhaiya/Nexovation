@@ -85,7 +85,7 @@ Nexovation
 ### 1. Clone the Repository
 
 ```bash
-git clone https://github.com/your-username/nexovation.git
+git clone https://github.com/codekanhaiya/Nexovation.git
 cd nexovation/nexoclient
 ```
 
